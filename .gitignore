@@ -1,0 +1,17 @@
+# Ignore compiled Python files
+*.pyc
+
+# Ignore m5out directory
+m5out
+
+# Ignore Visual Studio Code settings directory
+.vscode
+
+# Ignore results directory
+results
+
+# Ignore gem5 directory
+gem5
+
+# Ignore virtual environment directory
+venv
